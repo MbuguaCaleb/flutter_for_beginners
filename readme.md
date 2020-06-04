@@ -3,6 +3,8 @@
 ```
 It is a mobile UI Framework for creating native apps for IOS and Android.
 
+It exposes you to the native platform APIs eg the camera and the microphone.
+
 Single codebase dart means we only have to write our app once for mutiple
 devices
 
@@ -11,7 +13,7 @@ devices
 **Why use flutter**
 
 ```
-(a)Only 1 codebase.
+(a)Only 1 codebase.Means as well that you also update your code once.
 
 (b)Good layout methodology borrowed right from responsive web.
 
