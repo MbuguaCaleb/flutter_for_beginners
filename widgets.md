@@ -41,5 +41,5 @@ behaviour and how it looks on the screen.
 
 The language used in the implememtation of these classes is called dart.
 
-Flutter uses dart as the programming Language to create apps
+
 ```
